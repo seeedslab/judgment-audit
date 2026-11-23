@@ -40,4 +40,4 @@ Judgment that leaves no text trace: what's in your head, live conversations, fil
 - `references/chat-mode.md` — running without logs
 - `scripts/extract_turns.py` — log extraction with hint flags (English and Russian patterns)
 
-By Nailia Aglitskaya.
+By Nailia Aglitskaya. MIT license.
